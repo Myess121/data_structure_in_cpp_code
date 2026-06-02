@@ -1,0 +1,11 @@
+# 忽略 Visual Studio 自动生成的本地缓存文件夹（巨庞大）
+.vs/
+
+# 忽略编译输出文件夹（包含 exe、obj、pdb 等大文件）
+x64/
+Debug/
+Release/
+
+# 忽略用户特定的配置文件
+*.user
+*.suo
